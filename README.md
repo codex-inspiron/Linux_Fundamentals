@@ -4,8 +4,10 @@
 This repository tracks my learning of  Linux basics: CLI, permissions, processes, users, tar, cron.
   I learnt the basics of linux from Linuxjourney.com, then i began from the history of linux and after that, i began the understand the rules and fuction of the different types of unix linux system
   
-##1 Command-Line
+## Day 1: Command-Line
+...
 									NAVIGATION
+...
 command:'pwd' - Print Working Directory (It shows the current directory path you are working on)
  e.g
 *** ```bash-$ pwd
@@ -30,7 +32,8 @@ e.g
 $cd~      #go to previous directory
 $cd..     #go to home directory 
 
-										FILES
+										FILE
+...
 command: 'touch' - helps to create or add a new file in a directory, & can also edit or copy timestamp
 e.g
 *** ```bash-$  touch ~/Downloads/first.dotx      # command that creates file and file-type  
