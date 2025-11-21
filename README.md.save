@@ -1,5 +1,4 @@
-# LInux Fundamental
-## How i learnt my linux (kubuntu 24.04LTS)
+# How i learnt my linux (kubuntu 24.04LTS)
 
 This repository tracks my learning of  Linux basics: CLI, permissions, processes, users, tar, cron. I learnt the basics of linux from Linuxjourney.com,
 then i began from the history of linux and that gave ma an understanding of the unique rules and fuction of the different types of unix linux system.
@@ -23,12 +22,9 @@ ___
 - List the files in long format (e.g; drwxr-xr-x  2 harry harry 4096 F-Ɛ 22 16:46
 ```$ls -la```
 - With the combination of '-la'or'-al'doesn't matter it list both hidden and unhidden files in long format
-
+ 
 3. command:*cd*- **Change directory** (change from one directory to another)
 - e.g
-***  ```bash-$ cd Downloads
-
-e.g
 ***  ```bash-$ cd Downloads
     ~/Downloads      ***       #This shows you that you are in the Downloads directory
 $cd~      #go to previous directory
