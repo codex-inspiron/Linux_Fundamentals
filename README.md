@@ -12,7 +12,7 @@ This repository tracks my learning of Linux basics: CLI, permissions, processes,
 ___
 1. Command: *'pwd'* - **Print Working Directory** (It shows the current directory path you are working on).
 
-**RUN:** 
+RUN:
  ```bash-$ 
 pwd ```
 - Output: /home/username (where username is the admin-name)
