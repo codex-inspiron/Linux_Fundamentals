@@ -10,14 +10,14 @@ This repository tracks my learning of Linux basics: CLI, permissions, processes,
 
 ### a. NAVIGATION
 ___
-1. Command: *'pwd'* - **Print Working Directory** (It shows the current directory path you are working on).
+1. Command: 'pwd' - **Print Working Directory** (It shows the current directory path you are working on).
 
-RUN:
+**RUN:**
  ```bash-$ 
 pwd ```
 - Output: /home/username (where username is the admin-name)
 
-2. Command: *'ls'* - **List files** (list files in the directory).
+2. Command: 'ls' - **List files** (list files in the directory).
 
 **RUN:**
  ```bash-$
@@ -39,7 +39,7 @@ RUN:
  ```$
 ls -la```
 
-3. Command:*'cd'*- **Change directory** (change from one directory to another).
+3. Command: 'cd' - **Change directory** (change from one directory to another).
 RUN:
  ```bash-$
 cd Downloads ```
@@ -54,7 +54,7 @@ RUN:
  ```$ cd .. ```
 
 ### b. FILE
-1. Command: *touch* - Helps to create a new file in a directory or folder and its file-type, & can also edit or copy timestamp
+1. Command: 'touch' - Helps to create a new file in a directory or folder and its file-type, & can also edit or copy timestamp
 RUN:
  ```bash-$
 touch ~/Downloads/file.dotx```
@@ -88,23 +88,23 @@ RUN:
  ```bash-$
 stat ~/Downloads/second.dotx```
 
-2. Command: *'file'* - Used to identify the exact filetype of a file
+2. Command: 'file' - Used to identify the exact filetype of a file
 RUN:
  ```bash-$
 file ~/Downloads/first.dotx```
 - Output: /home/name/Downloads/first.dotx: PDF document, version 1.7
 
-3. Command: *'cat'* - used to to read a text file in terminal
+3. Command: 'cat' - used to to read a text file in terminal
 RUN:
  ```bash-$
 cat ~/Downloads/first.dotx```
 
-4. Command: *'less'* - used to read and display file in page form
+4. Command: 'less' - used to read and display file in page form
 RUN:
  ```bash-$
 less ~/Downloads/first.dotx```
 
-5. command: *'history'* - it shows last 15 command that you typed in the shell or terminal
+5. command: 'history' - it shows last 15 command that you typed in the shell or terminal
 RUN:
  ```bash-$
 history```
